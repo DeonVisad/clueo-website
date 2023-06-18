@@ -1,0 +1,32 @@
+.info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.infoSegment {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+    margin: 5vh 0;
+}
+
+.infotext-container {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    text-align: center;
+}
+
+.infotext-container p {
+    margin-top: 2vh;
+}
+
+.info-img {
+    height: auto;
+    max-width: 600px;
+}

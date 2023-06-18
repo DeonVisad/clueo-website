@@ -1,0 +1,22 @@
+.ourStoryBanner-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ourStoryBanner {
+    height: 10vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.ourStoryTitle {
+    display: flex;
+    align-items: center;
+    color: white;
+    text-align: center;
+}

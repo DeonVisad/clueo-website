@@ -1,0 +1,70 @@
+.footer-container {
+    display: flex;
+    height: 50vh;
+    width: 100%;
+    justify-content: space-around;
+    background-color: #FFDDD2;
+    align-items: center;
+    
+}
+
+.signup-container {
+    margin: 10vh;
+}
+
+.signup-subtitle {
+    margin-top: 5px;
+}
+
+.email-input {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid black;
+    margin-top: 5px;
+    height: 5vh;
+    padding-left: 10px;
+    padding-top: 15px;
+    width: 300px;
+}
+
+
+
+.signup-btn {
+    display: block;
+    margin: 20px 0px;
+    text-decoration: none;
+    height: 60px;
+    width: 250px;
+    text-align: center;
+    border: 2px solid black;
+    background-color: transparent;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.signup-btn:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.footer-link {
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.footer-link:hover {
+    cursor: pointer;
+}
+
+.socials {
+    height: 24px;
+    width: auto;
+    margin-right: 20px;
+    padding-right: 10px;
+}
+
+.socials:hover {
+    cursor: pointer;
+}

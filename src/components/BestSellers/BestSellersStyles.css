@@ -1,0 +1,40 @@
+.bestSellers-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 40vh;
+    width: 100%;
+    margin-top: 25vh;
+    margin-bottom: 25vh;
+}
+
+.products-container {
+    display: inline-flex;
+    margin: 2rem;
+}
+
+.product-card {
+    margin: 2rem;
+}
+
+.product-card:hover {
+    cursor: pointer;
+}
+
+.product-image {
+    max-height: 350px;
+    width: auto;
+    
+}
+
+.ingredients {
+    color: lightslategrey;
+    font-weight: 300;
+    margin: 1vh 0;
+}
+
+.price {
+    font-weight: 600;
+}

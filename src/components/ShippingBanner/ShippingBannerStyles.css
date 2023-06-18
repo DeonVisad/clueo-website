@@ -1,0 +1,8 @@
+.banner {
+    display: flex;
+    height: 10vh;
+    width: 100%;
+    background-color: #FFDDD2;
+    justify-content: center;
+    align-items: center;
+}
