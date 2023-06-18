@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/clueo-website/home/static/css/main.85f1c85b.css",
-    "main.js": "/clueo-website/home/static/js/main.ab60743b.js",
+    "main.js": "/clueo-website/home/static/js/main.269f6d26.js",
     "static/media/mountains.mp4": "/clueo-website/home/static/media/mountains.e966d764d06b1f104e51.mp4",
     "static/media/clean-candle.jpg": "/clueo-website/home/static/media/clean-candle.2ff18a3d5518641e3d14.jpg",
     "static/media/likeyou.jpg": "/clueo-website/home/static/media/likeyou.0ea6c5d827626cf47f31.jpg",
@@ -19,10 +19,10 @@
     "static/media/forestgrove.jpg": "/clueo-website/home/static/media/forestgrove.ce63ccff422a125618a5.jpg",
     "index.html": "/clueo-website/home/index.html",
     "main.85f1c85b.css.map": "/clueo-website/home/static/css/main.85f1c85b.css.map",
-    "main.ab60743b.js.map": "/clueo-website/home/static/js/main.ab60743b.js.map"
+    "main.269f6d26.js.map": "/clueo-website/home/static/js/main.269f6d26.js.map"
   },
   "entrypoints": [
     "static/css/main.85f1c85b.css",
-    "static/js/main.ab60743b.js"
+    "static/js/main.269f6d26.js"
   ]
 }
