@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import React, { useState, useEffect } from 'react';
 
 import Navbar from './components/Navbar/Navbar';
-// import Footer from './components/Footer/Footer';
 import Home from './Pages/Home/Home';
 import OurStory from './Pages/OurStory/OurStory';
 import Error from './Pages/Error/Error';
@@ -18,7 +17,7 @@ function App() {
     <Router>
       <Navbar />
       <Routes >
-        <Route index element={<Home />} path='/' />
+        <Route element={<Home />} path='/' />
         <Route path='/ourstory' element={<OurStory />} />
         <Route path='/shop' element={<Shop />} />
         <Route path='*' element={<Error />}/>

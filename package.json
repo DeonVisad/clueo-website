@@ -1,7 +1,7 @@
 {
   "name": "clueo-website",
   "version": "0.1.0",
-  "homepage": "https://deonvisad.github.io",
+  "homepage": "https://deonvisad.github.io/clueo-website/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
