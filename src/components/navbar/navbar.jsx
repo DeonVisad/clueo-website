@@ -14,21 +14,6 @@ import CartModal from '../CartModal/CartModal';
 
 function Navbar() {
   const [openModal, setOpenModal] = useState(false);
-  console.log(openModal);
-
-  // function handleAddProduct(product) {
-  //   const productExist = cartItems.find((item) => item.id === product.id);
-  //   if(productExist){
-  //     setCartItems(
-  //       cartItems.map((item) => 
-  //       item.id === product.id
-  //       ? {...productExist, quantity: productExist.quantity + 1}
-  //       : item)
-  //       );
-  //       } else {
-  //         setCartItems([...cartItems, {...product, quantity: 1}]);
-  //       }
-  // }
 
   return (
     <div className='modalNav-container'>
